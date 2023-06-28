@@ -1,0 +1,22 @@
+{
+  "name": "bet-o-tron3000",
+  "version": "1.0.0",
+  "description": "Bot for placing bets with your friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antLittell/Bet-o-Tron3000.git"
+  },
+  "author": "Anthony Littell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antLittell/Bet-o-Tron3000/issues"
+  },
+  "homepage": "https://github.com/antLittell/Bet-o-Tron3000#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
